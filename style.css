@@ -28,3 +28,8 @@ nav{
 nav ul{
     flex: 1;
 }
+
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
