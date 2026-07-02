@@ -55,3 +55,7 @@ nav .btn{
     font-size: 88px;
     margin-bottom: 15px;
 }
+
+.content h1 span{
+    color: #ff960b;
+}
