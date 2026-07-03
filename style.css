@@ -69,4 +69,8 @@ nav .btn{
     display: inline-block;
     margin-top: 30px;
     background: #ff960b;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 30px;
 }
