@@ -74,3 +74,7 @@ nav .btn{
     padding: 15px 30px;
     border-radius: 30px;
 }
+
+.coin-list{
+    position: absolute;
+}
