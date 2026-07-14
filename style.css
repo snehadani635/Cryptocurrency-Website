@@ -92,3 +92,8 @@ nav .btn{
     border: 1px solid #fff;
     padding: 20px 30px;
 }
+
+.coin img{
+    width: 40px;
+    margin-right: 10px;
+}
