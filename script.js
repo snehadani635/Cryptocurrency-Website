@@ -1,4 +1,6 @@
 var btc = document.getElementById("bitcoin");
+var btc = document.getElementById("ethereum");
+var btc = document.getElementById("dogecoin");
 
 var settings = {
     "async": true,
