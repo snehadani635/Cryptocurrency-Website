@@ -8,5 +8,5 @@ var settings = {
     "headers" : {}
 }
 $.ajax(settings).done(function (response){
-
+    console.log(response);
 });
