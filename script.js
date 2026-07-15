@@ -1,4 +1,4 @@
-
+var btc = document.getElementById("bitcoin");
 
 var settings = {
     "async": true,
