@@ -51,3 +51,19 @@ No additional installation is required.
 CoinGecko API
 
 https://api.coingecko.com/api/v3/simple/price
+
+## 👩‍💻 Author
+
+**Sneha Dani**
+
+MCA Student | Aspiring Full Stack Developer
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourusername
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to ⭐ the repository.
